@@ -53,3 +53,10 @@ Attribution is part of each license below. Clips under CC BY-SA stay under that 
 | ![](earth-aurora/thumb.jpg) | Aurora from space | NASA | Public domain | [source](https://commons.wikimedia.org/wiki/File:Aurora_Borealis_from_Space_(4K).webm) | 1080p30 HEVC, 2160p30 HEVC, 1080p30 H264 |
 | ![](earth-sun/thumb.jpg) | Solar flares | NASA's Scientific Visualization Studio | Public domain | [source](https://commons.wikimedia.org/wiki/File:Large_Solar_Flares_Erupt_From_the_Sun_(SVS31361).webm) | 1080p12 HEVC, 2160p12 HEVC, 1080p12 H264 |
 
+
+## LordOS Studio
+
+The `studio/` folder holds the backgrounds of LordOS Studio, the camera effects. Its pictures (`studio/pictures/`) are
+AI-generated for LordOS and released under CC0 1.0; its loops (`studio/videos/`, each at 3840x2160 and 1920x1080) keep
+their sources' licenses (Wikimedia Commons CC0, CC BY and CC BY-SA, and LordOS's own MIT renders). `studio/README.md`
+credits every file and `studio/MANIFEST.json` gives each file's path, size and SHA-256.
