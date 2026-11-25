@@ -1,8 +1,9 @@
 # Still wallpapers
 
-150 pictures for every LordOS theme, in three sections of 50: `abstract/` (soft 3D shapes, glass and pastel gradients),
+167 pictures for every LordOS theme: three sections of 50, `abstract/` (soft 3D shapes, glass and pastel gradients),
 `epic/` (LordOS's own mythology: warriors in leather armour, duels, dark and light scenes) and `anime/` (sakura, in
-day and night scenes). LordOS lists them from `catalog.json` at the root of this repository, which gives each file's
+day and night scenes), and `cyberpunk/`, the 17 pictures of the Cyberpunk City collection built into LordOS in HD and
+4K (same ids as the built-in ones). LordOS lists them from `catalog.json` at the root of this repository, which gives each file's
 size and SHA-256; a copy of that catalog ships in LordOS's signed system package.
 
 - **Author:** generated with ChatGPT (OpenAI) for LordOS, from prompts written by the LordOS project, on 2026-11-25.
@@ -14,4 +15,6 @@ size and SHA-256; a copy of that catalog ships in LordOS's signed system package
   (3840×2160), JPEG quality 90 with 4:4:4 chroma (the thumbnail quality 85), centre-cropped to 16:9.
 - **Upscaling:** the generator gives 1672×941. `abstract/` and `anime/` are upscaled ×4 with Real-ESRGAN
   (`realesrgan-x4plus`, and `realesrgan-x4plus-anime` for anime), then resized with Lanczos. `epic/` is resized with
-  Lanczos and a light unsharp mask, which keeps its fine textures (fur, leather, stone) natural.
+  Lanczos and a light unsharp mask, which keeps its fine textures (fur, leather, stone) natural. `cyberpunk/` is
+  upscaled ×4 with Real-ESRGAN (`realesrgan-x4plus`) from the generator's 1672×941 originals; Panorama and Neon Road
+  Entrance, whose originals were kept only as plain 4K upscales, were first brought back to 1672×941.

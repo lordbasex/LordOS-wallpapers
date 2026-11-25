@@ -56,7 +56,7 @@ Attribution is part of each license below. Clips under CC BY-SA stay under that 
 <!-- stills:start -->
 # Still wallpapers
 
-Pictures for every LordOS theme, each at 1920×1080 (HD) and 3840×2160 (4K) with a 320×180 thumbnail. They were generated with AI for LordOS and are released under CC0 1.0 (public domain dedication); `stills/README.md` says how they were made. Their entries in `catalog.json` use the codec `jpeg` and carry each file's size and SHA-256 like the clips above.
+Pictures for every LordOS theme, each at 1920×1080 (HD) and 3840×2160 (4K) with a 320×180 thumbnail. They were generated with AI for LordOS and are released under CC0 1.0 (public domain dedication); `stills/README.md` says how they were made. Cyberpunk City is the HD and 4K edition of the collection built into LordOS (same ids). Their entries in `catalog.json` use the codec `jpeg` and carry each file's size and SHA-256 like the clips above.
 
 ## Abstract
 
@@ -222,6 +222,28 @@ Pictures for every LordOS theme, each at 1920×1080 (HD) and 3840×2160 (4K) wit
 | ![](stills/anime/anime-48-snow-castle/thumb.jpg) | Snow castle | LordOS (AI-generated) | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [HD 1920×1080](stills/anime/anime-48-snow-castle/1080.jpg) · [4K 3840×2160](stills/anime/anime-48-snow-castle/2160.jpg) |
 | ![](stills/anime/anime-49-dawn-branch/thumb.jpg) | Dawn branch | LordOS (AI-generated) | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [HD 1920×1080](stills/anime/anime-49-dawn-branch/1080.jpg) · [4K 3840×2160](stills/anime/anime-49-dawn-branch/2160.jpg) |
 | ![](stills/anime/anime-50-crystal-princess/thumb.jpg) | Crystal princess | LordOS (AI-generated) | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [HD 1920×1080](stills/anime/anime-50-crystal-princess/1080.jpg) · [4K 3840×2160](stills/anime/anime-50-crystal-princess/2160.jpg) |
+
+## Cyberpunk City
+
+| | Title | Author | License | Sizes |
+|---|---|---|---|---|
+| ![](stills/cyberpunk/cyberpunk-fashion/thumb.jpg) | Night Pose | LordOS (AI-generated) | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [HD 1920×1080](stills/cyberpunk/cyberpunk-fashion/1080.jpg) · [4K 3840×2160](stills/cyberpunk/cyberpunk-fashion/2160.jpg) |
+| ![](stills/cyberpunk/cyberpunk-flower-boulevard/thumb.jpg) | Flower Boulevard | LordOS (AI-generated) | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [HD 1920×1080](stills/cyberpunk/cyberpunk-flower-boulevard/1080.jpg) · [4K 3840×2160](stills/cyberpunk/cyberpunk-flower-boulevard/2160.jpg) |
+| ![](stills/cyberpunk/cyberpunk-heart-of-the-city/thumb.jpg) | Heart of the City | LordOS (AI-generated) | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [HD 1920×1080](stills/cyberpunk/cyberpunk-heart-of-the-city/1080.jpg) · [4K 3840×2160](stills/cyberpunk/cyberpunk-heart-of-the-city/2160.jpg) |
+| ![](stills/cyberpunk/cyberpunk-hooded/thumb.jpg) | Hooded | LordOS (AI-generated) | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [HD 1920×1080](stills/cyberpunk/cyberpunk-hooded/1080.jpg) · [4K 3840×2160](stills/cyberpunk/cyberpunk-hooded/2160.jpg) |
+| ![](stills/cyberpunk/cyberpunk-hover-rider/thumb.jpg) | Neon Rider | LordOS (AI-generated) | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [HD 1920×1080](stills/cyberpunk/cyberpunk-hover-rider/1080.jpg) · [4K 3840×2160](stills/cyberpunk/cyberpunk-hover-rider/2160.jpg) |
+| ![](stills/cyberpunk/cyberpunk-maglev-station/thumb.jpg) | Maglev Station | LordOS (AI-generated) | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [HD 1920×1080](stills/cyberpunk/cyberpunk-maglev-station/1080.jpg) · [4K 3840×2160](stills/cyberpunk/cyberpunk-maglev-station/2160.jpg) |
+| ![](stills/cyberpunk/cyberpunk-metropolis-lookout/thumb.jpg) | Metropolis Lookout | LordOS (AI-generated) | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [HD 1920×1080](stills/cyberpunk/cyberpunk-metropolis-lookout/1080.jpg) · [4K 3840×2160](stills/cyberpunk/cyberpunk-metropolis-lookout/2160.jpg) |
+| ![](stills/cyberpunk/cyberpunk-neon-cherry-avenue/thumb.jpg) | Neon Cherry Avenue | LordOS (AI-generated) | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [HD 1920×1080](stills/cyberpunk/cyberpunk-neon-cherry-avenue/1080.jpg) · [4K 3840×2160](stills/cyberpunk/cyberpunk-neon-cherry-avenue/2160.jpg) |
+| ![](stills/cyberpunk/cyberpunk-neon-road-entrance/thumb.jpg) | Neon Road Entrance | LordOS (AI-generated) | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [HD 1920×1080](stills/cyberpunk/cyberpunk-neon-road-entrance/1080.jpg) · [4K 3840×2160](stills/cyberpunk/cyberpunk-neon-road-entrance/2160.jpg) |
+| ![](stills/cyberpunk/cyberpunk-panorama/thumb.jpg) | Panorama | LordOS (AI-generated) | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [HD 1920×1080](stills/cyberpunk/cyberpunk-panorama/1080.jpg) · [4K 3840×2160](stills/cyberpunk/cyberpunk-panorama/2160.jpg) |
+| ![](stills/cyberpunk/cyberpunk-pier-and-train/thumb.jpg) | Pier and Train | LordOS (AI-generated) | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [HD 1920×1080](stills/cyberpunk/cyberpunk-pier-and-train/1080.jpg) · [4K 3840×2160](stills/cyberpunk/cyberpunk-pier-and-train/2160.jpg) |
+| ![](stills/cyberpunk/cyberpunk-portrait/thumb.jpg) | Portrait | LordOS (AI-generated) | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [HD 1920×1080](stills/cyberpunk/cyberpunk-portrait/1080.jpg) · [4K 3840×2160](stills/cyberpunk/cyberpunk-portrait/2160.jpg) |
+| ![](stills/cyberpunk/cyberpunk-rings-and-bridges/thumb.jpg) | Rings and Bridges | LordOS (AI-generated) | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [HD 1920×1080](stills/cyberpunk/cyberpunk-rings-and-bridges/1080.jpg) · [4K 3840×2160](stills/cyberpunk/cyberpunk-rings-and-bridges/2160.jpg) |
+| ![](stills/cyberpunk/cyberpunk-sky-terrace/thumb.jpg) | Sky Terrace | LordOS (AI-generated) | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [HD 1920×1080](stills/cyberpunk/cyberpunk-sky-terrace/1080.jpg) · [4K 3840×2160](stills/cyberpunk/cyberpunk-sky-terrace/2160.jpg) |
+| ![](stills/cyberpunk/cyberpunk-skyline-highway/thumb.jpg) | Skyline Highway | LordOS (AI-generated) | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [HD 1920×1080](stills/cyberpunk/cyberpunk-skyline-highway/1080.jpg) · [4K 3840×2160](stills/cyberpunk/cyberpunk-skyline-highway/2160.jpg) |
+| ![](stills/cyberpunk/cyberpunk-terrace-woman/thumb.jpg) | Night Watch | LordOS (AI-generated) | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [HD 1920×1080](stills/cyberpunk/cyberpunk-terrace-woman/1080.jpg) · [4K 3840×2160](stills/cyberpunk/cyberpunk-terrace-woman/2160.jpg) |
+| ![](stills/cyberpunk/cyberpunk-unmasked/thumb.jpg) | Unmasked | LordOS (AI-generated) | [CC0](http://creativecommons.org/publicdomain/zero/1.0/deed.en) | [HD 1920×1080](stills/cyberpunk/cyberpunk-unmasked/1080.jpg) · [4K 3840×2160](stills/cyberpunk/cyberpunk-unmasked/2160.jpg) |
 
 <!-- stills:end -->
 
